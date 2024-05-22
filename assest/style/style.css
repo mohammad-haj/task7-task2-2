@@ -1,0 +1,9 @@
+section {
+    padding: 20px;
+    text-align: center;
+    border: 1px solid;
+  }
+  img {
+    width: 50px;
+    height: auto;
+  }
